@@ -1,0 +1,47 @@
+#writing{
+    font:font-family; 'Bebas Neue', sans-serif;
+  font-family: 'Caveat', cursive;;
+  font-size:30px;
+  position:fixed;
+  top:30px;
+  left:15px;
+    color:red;
+  }
+  html{background-color:#1A5276 ;}
+  
+  #ground{position:fixed;
+  bottom:0px;
+  left:0px;
+  background-color:#196F3D;
+  height:150px;
+  width:1500px;
+  }
+  #moon{
+    position:fixed;
+    height: 100px;
+    width: 100px;
+    right:30px;
+    background-color: white;
+    border-radius: 50%;
+    display: inline-block;
+  }
+  #tree{
+    position:fixed;
+    left:500px;
+    bottom: 135px;
+    height:250px;
+  }
+  #graves{position:fixed;
+    left:0px;
+    bottom: 135px;}
+  
+    #grave{position:fixed;
+      right: 0px;
+      bottom: 135px;
+    height:150px;}
+    #deadtree{
+      position:fixed;
+      right:300px;
+      bottom: 135px;
+      height:250px;}
+  

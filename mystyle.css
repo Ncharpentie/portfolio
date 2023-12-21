@@ -1,0 +1,35 @@
+.bar{
+    margin-left:10px;
+    display: inline;
+    border-right:3px solid white;
+    border-radius: 30px;
+}
+li{
+    color:black;
+}
+.bio{
+    border:3px solid black;
+    font-size:25px;
+}
+.navcolor{
+    background-color: black;
+   
+}
+td{
+    border:3px solid black;
+}
+aside{
+    border:3px solid black; 
+}
+.schedule{
+    position: relative;
+    left: 5px;
+}
+.career{
+    font-size: 20px;
+}
+.times{
+    border:1px solid black;
+    padding-right:200px;
+}
+

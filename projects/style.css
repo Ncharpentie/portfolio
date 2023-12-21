@@ -1,0 +1,36 @@
+h1{
+    font-family: 'Glass Antiqua', cursive;
+font-family: 'Yellowtail', cursive;
+font-weight:bold;
+background-color:rgb(158, 223, 245) ;
+}
+
+.thai{
+    position: absolute;
+    right: 0px;
+    float: left;}
+    
+.chicken{
+    position:relative;
+   bottom:25px;
+   width:200px;
+    height:200px;
+    float: right;
+}
+#food{
+    width:fit-content;
+    display: inline-block;
+    
+}
+#thaifood{
+    width:fit-content;
+    display:inline-block;
+}
+body{
+    background-color: lightgreen;
+}
+.writing{
+    background-color:lightsalmon;
+    border-radius: 30px;
+    display: block;
+}
